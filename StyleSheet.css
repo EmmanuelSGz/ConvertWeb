@@ -1,0 +1,14 @@
+﻿#divtop {
+    background-color:lightcyan;
+    height:150px;
+    width:580px;
+    position:fixed;
+    top:70px;
+    left:190px;
+}
+.corvetextbox {
+    border:2px solid #456879;
+	border-radius:10px;
+	height: 20px;
+	width: 100px;
+}
